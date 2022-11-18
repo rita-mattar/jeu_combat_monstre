@@ -1,5 +1,7 @@
 """
-wq«tewzyxe
+RITA MATTAR
+402
+COMBAT DE MONSTRE
 """
 
 import random
